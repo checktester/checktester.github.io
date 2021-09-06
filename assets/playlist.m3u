@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-name="CBC" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/cbc-az.svg" group-title="Азербайджанские", CBC
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
