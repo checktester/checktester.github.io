@@ -1,0 +1,8 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:0 tvg-name="ShowTV.tr" audio-track="tur" tvg-logo="https://mo.ciner.com.tr/assets/images/v3/brands/showtv.svg" group-title="Турецкие", Show TV
+https://ciner-live.ercdn.net/showtv/playlist.m3u8?e=1630902358&st=8CcXoKBl1Z1JtW_iLI99QA&tv=1
