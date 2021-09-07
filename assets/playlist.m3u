@@ -7,9 +7,20 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
 https://video1.in-news.ru/360/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Кинопремьера HD" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Кинопремьера HD
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 
+### Кино и сериалы
+#EXTINF:-1 tvg-name="Dorama" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Dorama
+https://sc.id-tv.kz/dorama_hd_38_39.m3u8
+#EXTINF:-1 tvg-name="Киномикс" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Киномикс
+https://sc.id-tv.kz/Kinomix_hd_38_39.m3u8
+#EXTINF:-1 tvg-name="Кинопремьера" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
+#EXTINF:-1 tvg-name="Киносвидание" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Киносвидание
+https://sc.id-tv.kz/Kinosvidanie_hd_38_39.m3u8
+#EXTINF:-1 tvg-name="Киносемья" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Киносемья
+https://sc.id-tv.kz/Kinosemiya_hd_38_39.m3u8
+#EXTINF:-1 tvg-name="Кинохит" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Кинохит
+https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8
 
 
 #EXTINF:-1 tvg-name="Euronews" audio-track="eng" tvg-logo="https://checktester.github.io/assets/vector/euronews.svg" group-title="Великобритания", Euronews
