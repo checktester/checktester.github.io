@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CBC" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/cbc-az.svg" group-title="Азербайджанские", CBC
+#EXTINF:-1 tvg-name="CBC" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/cbc-az.svg", CBC
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Россия 1 HD" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/russia1.svg" group-title="HD-каналы", Россия 1 HD
+#EXTINF:-1 tvg-name="Россия 1 HD" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/russia1.svg", Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="360°" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/360-degrees.svg" group-title="Российские", 360°
+#EXTINF:-1 tvg-name="360°" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/360-degrees.svg", 360°
 https://video1.in-news.ru/360/index.m3u8
 
 
@@ -28,5 +28,5 @@ https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8
 
 ### Познавательные
 
-#EXTINF:-1 tvg-name="Euronews" audio-track="eng" tvg-logo="https://checktester.github.io/assets/vector/euronews.svg" group-title="Великобритания", Euronews
+#EXTINF:-1 tvg-name="Euronews" audio-track="eng" tvg-logo="https://checktester.github.io/assets/vector/euronews.svg", Euronews
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
