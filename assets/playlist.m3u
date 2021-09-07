@@ -12,7 +12,7 @@ https://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 tvg-name="Amedia Hit" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Amedia Hit
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 tvg-name="Dorama" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Dorama
-https://sc.id-tv.kz/dorama_hd_38_39.m3u8
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
 #EXTINF:-1 tvg-name="Киномикс" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Киномикс
 https://sc.id-tv.kz/Kinomix_hd_38_39.m3u8
 #EXTINF:-1 tvg-name="Кинопремьера" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Кинопремьера
