@@ -12,27 +12,27 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
 https://sc.id-tv.kz/STS_34_35.m3u8
 
 #EXTINF:-1 tvg-name="A2" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", A2
-https://sc.id-tv.kz/amedia_2_34_35.m3u8
+https://sc.id-tv.kz/amedia_2_38_39.m3u8
 #EXTINF:-1 tvg-name="Amedia Hit" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/amedia-hit.svg" group-title="Кино и сериалы", Amedia Hit
-https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+https://sc.id-tv.kz/amedia_hit_hd_38_39.m3u8
 #EXTINF:-1 tvg-name="Dorama" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/dorama.svg" group-title="Кино и сериалы", Dorama
-https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+https://sc.id-tv.kz/dorama_hd_38_39.m3u8
 #EXTINF:-1 tvg-name="Дом Кино Премиум HD" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Дом Кино Премиум HD
-https://sc.id-tv.kz/domkino_hd_34_35.m3u8
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
 #EXTINF:-1 tvg-name="КИНОКОМЕДИЯ" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОКОМЕДИЯ
-https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinokomediya_hd_38_39.m3u8
 #EXTINF:-1 tvg-name="КИНОМИКС" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОМИКС
-https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinomix_hd_38_39.m3u8
 #EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОПРЕМЬЕРА
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
 #EXTINF:-1 tvg-name="КИНОСВИДАНИЕ" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОСВИДАНИЕ
-https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinosvidanie_hd_38_39.m3u8
 #EXTINF:-1 tvg-name="КИНОСЕМЬЯ" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОСЕМЬЯ
-https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinosemiya_hd_38_39.m3u8
 #EXTINF:-1 tvg-name="КИНОХИТ" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОХИТ
-https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8
 #EXTINF:-1 tvg-name="РОДНОЕ КИНО" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", РОДНОЕ КИНО
-https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+https://sc.id-tv.kz/Rodnoe_kino_38_39.m3u8
 
 
 #EXTINF:-1 tvg-name="Телеканал 360" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/360-degrees.svg" group-title="Развлекательные", Телеканал 360
