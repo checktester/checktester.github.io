@@ -31,15 +31,15 @@ https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 
 ### Общероссийские
-#EXTINF:-1 tvg-name="Пятница" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Общероссийские", Пятница
+#EXTINF:-1 tvg-name="Пятница! International" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/friday-international.svg" group-title="Общероссийские", Пятница
 https://sc.id-tv.kz/friday_34_35.m3u8
-#EXTINF:-1 tvg-name="РЕН ТВ" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Общероссийские", РЕН ТВ
+#EXTINF:-1 tvg-name="РЕН ТВ" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/rentv.svg" group-title="Общероссийские", РЕН ТВ
 https://sc.id-tv.kz/RenTV_34_35.m3u8
 #EXTINF:-1 tvg-name="СТС" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Общероссийские", СТС
 https://sc.id-tv.kz/STS_34_35.m3u8
 
 ### Познавательные
-#EXTINF:-1 tvg-name="HDL" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Познавательные", HDL
+#EXTINF:-1 tvg-name="HDL" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/hdl.svg" group-title="Познавательные", HDL
 https://sc.id-tv.kz/hdl_34_35.m3u8
 
 #EXTINF:-1 tvg-name="Euronews" audio-track="eng" tvg-logo="https://checktester.github.io/assets/vector/euronews.svg" group-title="", Euronews
