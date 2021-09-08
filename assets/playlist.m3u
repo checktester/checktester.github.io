@@ -15,18 +15,25 @@ https://sc.id-tv.kz/amedia_2_34_35.m3u8
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 tvg-name="Dorama" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Dorama
 https://sc.id-tv.kz/dorama_hd_34_35.m3u8
-#EXTINF:-1 tvg-name="Кинокомедия audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Кинокомедия
+#EXTINF:-1 tvg-name="КИНОКОМЕДИЯ" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОКОМЕДИЯ
 https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1 tvg-name="Киномикс" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Киномикс
+#EXTINF:-1 tvg-name="КИНОМИКС" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОМИКС
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:-1 tvg-name="Кинопремьера" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Кинопремьера
+#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОПРЕМЬЕРА
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1 tvg-name="Киносвидание" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Киносвидание
+#EXTINF:-1 tvg-name="КИНОСВИДАНИЕ" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОСВИДАНИЕ
 https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1 tvg-name="Киносемья" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Киносемья
+#EXTINF:-1 tvg-name="КИНОСЕМЬЯ" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОСЕМЬЯ
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1 tvg-name="Кинохит" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Кинохит
+#EXTINF:-1 tvg-name="КИНОХИТ" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОХИТ
 https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 tvg-name="РОДНОЕ КИНО" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", РОДНОЕ КИНО
+https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+
+### Общероссийские
+#EXTINF:-1 tvg-name="СТС" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Общероссийские", СТС
+https://sc.id-tv.kz/STS_34_35.m3u8
+
 
 
 #EXTINF:-1 tvg-name="Euronews" audio-track="eng" tvg-logo="https://checktester.github.io/assets/vector/euronews.svg" group-title="", Euronews
