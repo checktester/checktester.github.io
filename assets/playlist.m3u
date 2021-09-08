@@ -15,7 +15,7 @@ https://sc.id-tv.kz/amedia_2_34_35.m3u8
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 tvg-name="Dorama" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/dorama.svg" group-title="Кино и сериалы", Dorama
 https://sc.id-tv.kz/dorama_hd_34_35.m3u8
-#EXTINF:-1 tvg-name="Дом Кино Премиум HD" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Дом Кино Премиум HDКИНОКОМЕДИЯ
+#EXTINF:-1 tvg-name="Дом Кино Премиум HD" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", Дом Кино Премиум HD
 https://sc.id-tv.kz/domkino_hd_34_35.m3u8
 #EXTINF:-1 tvg-name="КИНОКОМЕДИЯ" audio-track="rus" tvg-logo="https://checktester.github.io/assets/vector/kinopremiere.svg" group-title="Кино и сериалы", КИНОКОМЕДИЯ
 https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
