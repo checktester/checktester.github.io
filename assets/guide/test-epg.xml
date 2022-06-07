@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="filmzone-ee" tvg-name="Filmzone", Filmzone
+http://85.206.57.253:8981/a75/mono.m3u8
+#EXTINF:-1 tvg-id="filmzone-plus-ee" tvg-name="Filmzone+", Filmzone+
+http://85.206.57.253:8981/a74/mono.m3u8
+#EXTINF:-1 tvg-id="tv1000-cee" tvg-name="TV1000", TV1000
+http://85.206.57.253:8981/l88/mono.m3u8
+#EXTINF:-1 tvg-id="tv1000-action-cee" tvg-name="TV1000 Action", TV1000 Action
+http://85.206.57.253:8981/l86/mono.m3u8
+#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="TV1000 World Kino", TV1000 World Kino
+http://85.206.57.253:8981/l85/mono.m3u8
