@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1, Еврокино
+http://185.37.150.40:8092/Evrokino/playlist.m3u8
+#EXTINF:-1, Amedia 1
+http://185.37.150.40:8092/Amedia1/playlist.m3u8
+#EXTINF:-1, Amedia 2
+http://185.37.150.40:8092/Amedia2/playlist.m3u8
+
+#EXTINF:-1, .red
+http://185.37.150.40:8092/Sony_enter/playlist.m3u8
+
+#EXTINF:-1, .sci-fi
+http://185.37.150.40:8092/Axn_skyfi/playlist.m3u8
+
+#EXTINF:-1, Кинохит
+http://185.37.150.40:8092/kinohit/playlist.m3u8
+
+#EXTINF:-1, Киномикс
+http://185.37.150.40:8092/kino_plus/playlist.m3u8
+#EXTINF:-1, Мужское кино
+http://185.37.150.40:8092/Muj_kino/playlist.m3u8
+
+
+#EXTINF:-1, Родное кино SD
+http://185.37.150.40:8092/Nashe_kino/playlist.m3u8
+#EXTINF:-1, Кинокомедия
+http://185.37.150.40:8092/Komediya/playlist.m3u8
+#EXTINF:-1, Киносерия SD
+http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
+
+
+
