@@ -1,33 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1, Еврокино
-http://185.37.150.40:8092/Evrokino/playlist.m3u8
+
+
 #EXTINF:-1, Amedia 1
-http://185.37.150.40:8092/Amedia1/playlist.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000710.m3u8
 #EXTINF:-1, Amedia 2
-http://185.37.150.40:8092/Amedia2/playlist.m3u8
-
-#EXTINF:-1, .red
-http://185.37.150.40:8092/Sony_enter/playlist.m3u8
-
-#EXTINF:-1, .sci-fi
-http://185.37.150.40:8092/Axn_skyfi/playlist.m3u8
-
-#EXTINF:-1, Кинохит
-http://185.37.150.40:8092/kinohit/playlist.m3u8
-
-#EXTINF:-1, Киномикс
-http://185.37.150.40:8092/kino_plus/playlist.m3u8
-#EXTINF:-1, Мужское кино
-http://185.37.150.40:8092/Muj_kino/playlist.m3u8
-
-
-#EXTINF:-1, Родное кино SD
-http://185.37.150.40:8092/Nashe_kino/playlist.m3u8
-#EXTINF:-1, Кинокомедия
-http://185.37.150.40:8092/Komediya/playlist.m3u8
-#EXTINF:-1, Киносерия SD
-http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
-
-
-
+https://bkm.beetv.kz/btv/live/hls/000000351.m3u8
+#EXTINF:-1, Amedia Hit
+https://bkm.beetv.kz/btv/live/hls/000001662.m3u8
+#EXTINF:-1, Amedia Premium
+https://bkm.beetv.kz/btv/live/hls/000000709.m3u8
+#EXTINF:-1, FX
+https://bkm.beetv.kz/btv/live/hls/000004472.m3u8
+#EXTINF:-1, FX Life
+https://bkm.beetv.kz/btv/live/hls/000004471.m3u8
+#EXTINF:-1, Еврокино
+https://bkm.beetv.kz/btv/live/hls/000000152.m3u8
+#EXTINF:-1, Дорама
+https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
+#EXTINF:-1, Кинеко
+https://bkm.beetv.kz/btv/live/hls/000008136.m3u8
+#EXTINF:-1, Cinema
+https://bkm.beetv.kz/btv/live/hls/000000239.m3u8
+#EXTINF:-1, НСТ
+https://bkm.beetv.kz/btv/live/hls/000000078.m3u8
+#EXTINF:-1, viju+ Serial
+https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
+#EXTINF:-1, viju+ Comedy
+https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
+#EXTINF:-1, viju+ Megahit
+https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
+#EXTINF:-1, viju+ Premiere
+https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
+#EXTINF:-1, viju TV1000
+https://bkm.beetv.kz/btv/live/hls/000003747.m3u8
+#EXTINF:-1, viju TV1000 action
+https://bkm.beetv.kz/btv/live/hls/000003910.m3u8
+#EXTINF:-1, viju TV1000 русское
+https://bkm.beetv.kz/btv/live/hls/000003748.m3u8
+#EXTINF:-1, History
+https://bkm.beetv.kz/btv/live/hls/000000709.m3u8
+#EXTINF:-1, H2
+https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
+#EXTINF:-1, viju History
+https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
+#EXTINF:-1, viju Explore
+https://bkm.beetv.kz/btv/live/hls/000004157.m3u8
+#EXTINF:-1, viju Nature
+https://bkm.beetv.kz/btv/live/hls/000006482.m3u8
+#EXTINF:-1, National Geographic
+https://bkm.beetv.kz/btv/live/hls/000000034.m3u8
+#EXTINF:-1, National Geographic Wild
+https://bkm.beetv.kz/btv/live/hls/000004474.m3u8
