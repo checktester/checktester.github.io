@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/1767.png" tvg-rec="7",ТНТ HD
+http://rhsbjv7k.tvclub.xyz/iptv/NC34M5CND4MS7M/237/index.m3u8
