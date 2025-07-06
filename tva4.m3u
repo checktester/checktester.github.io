@@ -1,0 +1,2062 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 ,ТВA-06.07.2025-tva.org.ua 
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,TV1000
+http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,TV1000 Action
+http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,TV1000 Ру кино
+http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,VIP Megahit HD
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,VIP Premiere HD
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,VIP Comedy HD
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,VIP Serial HD
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Дом кино
+http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Дом кино Премиум
+http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Иллюзион+
+http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,НСТ
+http://api.peers.tv/timeshift/nstv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,КП HD
+http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,КиноХит
+http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Кинокомедия
+http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Киномикс
+http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Киносвидание
+http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Киносемья
+http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Наше новое кино
+http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Киносерия
+http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Cinema
+http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,TV XXI
+http://api.peers.tv/timeshift/tv21/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Еврокино
+http://api.peers.tv/timeshift/eurokino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,.black
+http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,.red
+http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,.sci-fi
+http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Amedia 1
+http://api.peers.tv/timeshift/amedia1/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Amedia 2
+http://api.peers.tv/timeshift/amedia_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Amedia Premium HD
+http://api.peers.tv/timeshift/amediapremium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Киноужас
+http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Ин кино
+http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Индия
+http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Кинопоказ
+http://api.peers.tv/timeshift/kinopokaz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Комедия
+http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Bolt HD
+http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Капитан Фантастика
+http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,КИНЕКО
+http://api.peers.tv/timeshift/kineko_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Ру бестселлер
+http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Ру детектив
+http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Ру иллюзион
+http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Ру роман
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,САПФИР
+http://api.peers.tv/timeshift/sapfir_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Дорама
+http://api.peers.tv/timeshift/dorama/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Timeless Dizi Channel
+http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Мир сериала
+http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Любимое кино
+http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Классика Кино
+http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Советское кино
+http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Мосфильм. Золотая коллекция
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Ностальгия
+http://api.peers.tv/timeshift/nostalgy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,DOCUBOX HD
+http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Fan HD
+http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,FILMBOX
+http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Filmbox Arthouse
+http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Star Family HD
+http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Киносат
+http://api.peers.tv/timeshift/kinosat/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Домашний
+http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,СТС
+http://api.peers.tv/timeshift/sts/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,СТС love
+http://api.peers.tv/timeshift/sts_love/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,ТВ3
+http://api.peers.tv/timeshift/tv3/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Че
+http://api.peers.tv/timeshift/perec/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,The Explorers
+http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Viasat Explore
+http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Viasat Nature
+http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Viasat History
+http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Приключения HD
+http://api.peers.tv/timeshift/teleputeshestvija_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)"  ,Глазами Туриста HD
+http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,TERRA
+http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,TERRA HD
+http://api.peers.tv/timeshift/terra_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Travel+Adventure
+http://api.peers.tv/timeshift/travad/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Travel+Adventure HD
+http://api.peers.tv/timeshift/travel_adventure_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Живая планета
+http://api.peers.tv/timeshift/zhivaya_planeta/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Моя планета
+http://api.peers.tv/timeshift/my_planet/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Охота и рыбалка
+http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Диалоги о рыбалке
+http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Galaxy TV
+http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Т24
+http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Zooпарк
+http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Наука 2.0
+http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Авто 24
+http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Авто плюс
+http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Кухня ТВ
+http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Еда Премиум
+http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Первый вегетарианский
+http://api.peers.tv/timeshift/pervyy_vegetarianskiy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,2x2 (+4)
+http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,Da Vinci
+http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTE4NzU0NDEsImlhdCI6MTc1MTc4OTA0MSwiY2lkIjo2LCJ1aWQiOjkyODM5NDMwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.xSdmNfUJ16Q9GZ-sm4j3VItAD1FtRyE8b98LVGgf7uY&offset=10
+
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10374/logo_256_1658736669.png", Киносвидание
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/rr2Jrl1uU_8zle-6SMqQdA,1751871651/streaming/film-watching/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10372/logo_256_1658734797.png", КП HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/9T0HfdMrGlwBUHHsiED8nA,1751871651/streaming/film-premiere/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10373/logo_256_1658734849.png", Киносемья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/2h9uyQPBAjGZY8H7Y8YLUg,1751871651/streaming/film-families/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10375/logo_256_1658734901.png", Кинохит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/xt0YZy7d7V4ZoMWsouqFfA,1751871651/streaming/film-hit/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10376/logo_256_1658736938.png", Мужское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/PlyTi9wdiJbrmio0QyujOQ,1751871651/streaming/male-movie/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10067/logo_256_1658736706.png", Киносерия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/dq2GNs8e-fbXdfi6Eo6drQ,1751871651/streaming/kinoseria/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10429/logo_256_1658734745.png", Киноужас
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/FCb_UIa3_fpf7_Phugy7sg,1751871651/streaming/kinoujas/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10055/logo_256_1658736559.png", Ин кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/1MdELFopKQez9h2tRWB6vw,1751871651/streaming/india/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10343/logo_256_1658737066.png", Наше новое кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/-M41eVeYqM3jHo31KbBLYQ,1751871651/streaming/nashe_n_kino/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10136/logo_256_1658734780.png", Родное кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/T8BmoU1lJA3SR0-gpizqxA,1751871651/streaming/rodnoe/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10342/logo_256_1658734729.png", Киномикс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/dnBgvFmn4Y6iyzv2BBDk7Q,1751871651/streaming/kinomix/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10619/logo_256_1658734099.png", Блокбастер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/xpmRCIAaB8o-kPea164VMQ,1751871651/streaming/blokbaster/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10383/logo_256_1658736686.png", КиноСезон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/AtgPLQYHWdadr4TlYLGngQ,1751871651/streaming/kinosezon/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10621/logo_256_1660892038.png", Наше мужское
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/XhXnYgb5i-KzFbZxbN2AZg,1751871651/streaming/nashemuzskoe/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10620/logo_256_1658737315.png", Про любовь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Sw3JbyQrg5WfSEG3LK95Lg,1751871651/streaming/prolubov/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10644/logo_256_1658733966.png", Индия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/piFtkMBqw0Nn4DmQkpOAlg,1751871651/streaming/zeetv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10622/logo_256_1660892265.png", Хит HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Nh8NxOofVIcNL8O5kZDvsw,1751871651/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10661/logo_256_1655386442.png", Ключ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/stkUtPZIeL0fffDw7x7EDA,1751871651/streaming/kluchhd/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10623/logo_256_1655386680.png", Наш кинопоказ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Mpdr7Yq4KNCAlc7a94D9Mw,1751871651/streaming/nashpokaz/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10624/logo_256_1660891973.png", Камеди
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/_DcFJzLcTFkBPt8dJajzlw,1751871651/streaming/kamedi/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13490/logo_256_1660802549.png", Kinoliving
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/ly8lmXCrY3FWuWvDb-4qNQ,1751871652/streaming/kinoliving/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14456/logo_256_1660803625.png", Star Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/ru95o_J3LKBJ3bRbdCHU-w,1751871652/streaming/star_family/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12040/logo_256_1655390551.png", Timeless Dizi Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/WnBfOGzZ93Np2qvbWicNjA,1751871652/streaming/dizitv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14463/logo_256_1660803610.png", Star Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/l1AzSsDvAH6kEghLWIKDKQ,1751871652/streaming/star_cinema/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14484/logo_256_1660800271.png", .Red
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/K6zhD63JR9n8lSa7PUz-hw,1751871652/streaming/red/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14470/logo_256_1660800427.png", Bolt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/pWyo4AUVCY0LPGZ7qa-wsw,1751871652/streaming/bolt/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14491/logo_256_1660800286.png", .Sci-Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/tQOKR6rkzCdZZZCThhDJww,1751871652/streaming/sci-fi/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14498/logo_256_1660800255.png", .Black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/HUwCpUKYkr-IDeQgl2ZlfQ,1751871652/streaming/black/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17046/logo_256_1681191774.png", Кинеко
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/BcouZhNHXvwmLz9KQ5dfKQ,1751871652/streaming/kineko/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17039/logo_256_1681191678.png", Сапфир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/HhAuR0kzDYYGvfi_MytfqA,1751871652/streaming/sapfir/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17242/logo_256_1682688528.png", FilmBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/7yRKeLE92dRaXazT5x4nJw,1751871652/streaming/filmbox/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15576/logo_256_1668760402.png", Novella TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/rgDSk_I6rRcB7YZ5MNgJJQ,1751871652/streaming/telenovella/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1670420636.jpg", Horror TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/aclvLkrz4bY3Z8HRuh2tVA,1751871652/streaming/horror_tv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17249/logo_256_1682688536.png", Любимое кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/EOloKoQILPLXjwgN1CJxtw,1751871652/streaming/lubimoe_kino/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/70/logo_256_1658734616.png", Еврокино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/gBqT36I0MkD7CsvkLrtlGA,1751871652/streaming/eurokino/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/143/logo_256_1660809926.png", Феникс+ Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/_iDYiVXF2iusuBrnQ4nkTw,1751871652/streaming/fenixkino/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10533/logo_256_1658733910.png", TVM Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/5V3CqVPErE3GBigXH3-O7w,1751871652/streaming/tvm-tv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10538/logo_256_1658733874.png", Trash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/45-Q2Ws73WmwJAowA1kJvQ,1751871652/streaming/trash/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/74/logo_256_1658736167.png", Иллюзион+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/RDYBEOvjoxRbl16qhtalZA,1751871652/streaming/illuzionplus/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/119/logo_128_1652790001.png", Иллюзион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/bFFk9ojSqyotsnWIybnyUQ,1751871652/streaming/rusilluzion/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10138/logo_256_1658734714.png", Кинокомедия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/6GQ_cWR8cfLvrTGuamW2_g,1751871652/streaming/kinocomedia/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10355/logo_256_1658737764.png", Тайна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/A3EE4cEDOcBtVneIh_sujA,1751871652/streaming/taina/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10406/logo_256_1658736647.png", Кинопоказ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/WHhrHL_j_3FgHQLt1uYteQ,1751871652/streaming/kinopokaz/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10240/logo_256_1658734570.png", Дорама
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/POHcjEdb74kF7PcJfrB4yQ,1751871652/streaming/dorama/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15569/logo_256_1668760387.png", Anime TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/tC-j6D68XXdwGGLdAKw21Q,1751871652/streaming/anime_tv/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10277/logo_256_1658736618.png", КиноСат
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/CL_7nrc27xFSNYzEw8CLdA,1751871652/streaming/kinosat/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10287/logo_256_1658736730.png", Классика кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/A2XBGtuZTjCTVHAMwq9D1g,1751871652/streaming/k_kino/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10182/logo_256_1658733860.png", Shot TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/4K9VSBZnNxyCk9ydfr6jxw,1751871652/streaming/shottv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10433/logo_256_1658737150.png", О!Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/XkS1DDE3f3iMwacK7AEszQ,1751871652/streaming/okino/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10290/logo_256_1658737599.png", Советское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/rcOILnS2VETjR_NMPP_eZA,1751871652/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/77/logo_256_1670994852.png", Солнце
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/KS48z5hLE_00R0jeHfTZ_w,1751871652/streaming/solnce/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/78/logo_256_1655391637.png", Карусель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/j6gUhxoEJX5pb2b_VOu2FA,1751871652/streaming/karusel/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/96/logo_256_1669621639.png", Мультимания
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/brzuCrSNUaQG6nRSlJFVRg,1751871652/streaming/multimania/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10082/logo_256_1658744656.png", Уникум
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Z7CBRU1s51zjHoOXvKhPUg,1751871652/streaming/detskiy/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10128/logo_256_1660807339.png", Смайлик ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/J60XVhoZ0L22uMQ8IlsnNw,1751871652/streaming/smile/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10353/logo_256_1655388985.png", СТС Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Vlcu3fBtSKoPxr8JWqZ5ag,1751871652/streaming/stskids/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10110/logo_256_1658737744.png", СуперГерои
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/M9qlsKMSbdKnigjIIREy6w,1751871652/streaming/malish/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10158/logo_256_1658736584.png", Капитан Фантастика HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/saCRF5OFJsqXnwq32qV3Kw,1751871652/streaming/gingerhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15520/logo_256_1668760454.png", Чижик HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/_h-GchPBSofuTJfq-TnaXg,1751871652/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16325/logo_256_1673848908.png", Anime Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/C1H2KcgOBXYG_J00lPXLKw,1751871652/streaming/anime_kids/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10239/logo_256_1658734278.png", В Гостях у сказки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/2E94xiIF5FyM7Oh33lfHRg,1751871652/streaming/skazka/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10359/logo_256_1658737553.png", Рыжий
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/LGUfmCo4-Pa1cKRfilEebA,1751871652/streaming/ginger-surd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15240/logo_256_1665665384.png", Лёва
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/zHXfGOYf8-dYWolYjUwzuA,1751871652/streaming/levatv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13987/logo_256_1660805879.png", ТипТоп
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/PRz2ohxJ8_NQqzU-wKXgiA,1751871652/streaming/tiptop/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10220/logo_256_1655449233.png", Детский Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/OY9jBvV7IalPBsO-2Dm0Zw,1751871652/streaming/detmir/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10476/logo_256_1658734432.png", Детское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/p7mAoRJJvvOMz7KgA8TSuA,1751871652/streaming/det_kino/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10430/logo_256_1660805856.png", МультСезон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/CS_t18QfueP3QN1ozBHTXA,1751871652/streaming/multsezon/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12650/logo_256_1655389546.png", Duck TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/m6jYYuKi1w2FJuj1JpUlMw,1751871652/streaming/ducktv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15513/logo_256_1668760438.png", Пингвин ЛОЛО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/7DNRflkw4NHzPiv6TdcSqQ,1751871652/streaming/pingvin/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10288/logo_256_1658737569.png", Сказки Зайки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/WavqQNL2G1o9NYd8raexfw,1751871652/streaming/zaj/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10070/logo_256_1658734015.png", Авто плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/C46CMkzAd5QgoOdZ_WzVTg,1751871652/streaming/avtoplus/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10289/logo_256_1658737584.png", Советские мультфильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/thvEu4gvWB_V4bDiJEXPaQ,1751871652/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10094/logo_256_1658734001.png", АВТО24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/ftB0wQBL_7CIk_5B23WfSA,1751871652/streaming/avto24/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10047/logo_256_1658734494.png", Дикий
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/4cQk_QeWk0myI5rePtsyGA,1751871652/streaming/dikiy/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10048/logo_256_1658734589.png", Драйв
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/7buu3KJUS8sqH2uFZ0dIWg,1751871652/streaming/drive/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10049/logo_256_1658737194.png", Охота и рыбалка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/7vqpwW_Ljz7trLoaaIn0Sg,1751871653/streaming/ohota_i_ribalka/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10142/logo_256_1660893646.png", Точка отрыва
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/CIUGm8jAP3zrrKVt-fkZMA,1751871653/streaming/tochkaotriva/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10157/logo_256_1658737213.png", Охотник и Рыболов HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/2gwh6WiE8mNHyz2uzGutjw,1751871653/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10060/logo_256_1658734463.png", Дикая охота HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/q5zHG9q8xnGDbvlo_NYMQQ,1751871653/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10352/logo_256_1658734446.png", Диалоги о рыбалке
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/qVWzNao4m7IX02Y34MFzuw,1751871653/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10224/logo_256_1658737935.png", Тномер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/hs3GwXSM088cQ6a-NbdCXA,1751871653/streaming/tnomer/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10244/logo_256_1658737047.png", Наша тема
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/s0S9OyxZIsPr0xzgz_Bcmw,1751871653/streaming/mytheme/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10176/logo_256_1658737516.png", Рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/lG4S0s3lJ9qCDVdb3ZawYg,1751871653/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10247/logo_256_1658734655.png", Еда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/0sMWxC6zS_Juz84w87NRPA,1751871653/streaming/eda/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10302/logo_256_1658736954.png", Мужской
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/X9mhhcHNCAsrTBl3Jwjh-A,1751871653/streaming/male/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10179/logo_256_1658734479.png", Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/gfNCg77ZbLuAiZFnze7sZA,1751871653/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10387/logo_256_1658733779.png", Joy cook
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/3xhPdKPsYeBjtmayztVhdg,1751871653/streaming/joycook/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10068/logo_256_1658736768.png", Кухня ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/JOd6KHQwrnNs2FrdEb1W9g,1751871653/streaming/kuhnya/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10248/logo_256_1667281259.png", Food Time
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/8rY2S96OHZA5AAoL1sgL6w,1751871653/streaming/edahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10670/logo_256_1658736096.png", Здоровье
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/mY8ZKtdsDnAE1Sk1P-iTRA,1751871653/streaming/zdrav/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10221/logo_256_1658737228.png", Первый Вегетарианский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/ZPO7U6Lr8YIOPBwO25NzKA,1751871653/streaming/firstvegan/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10674/logo_256_1660828644.png", Живи Активно
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Fgv3zXW6FqO1BgMz6Xg8cA,1751871653/streaming/zhivi_aktivno/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10052/logo_256_1658736006.png", Здоровое ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/BoC42qX-OOO5Z0O-Ed7PNQ,1751871653/streaming/zdorovoe/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10050/logo_256_1658744689.png", Усадьба
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/oUclCHEGPgWYdlHgMA4Taw,1751871653/streaming/usadba/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/146/logo_256_1655449127.png", Ю
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/fCVu1UMLYFsGxDGP0tINFg,1751871653/streaming/channelu/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10103/logo_256_1658736742.png", Конный Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/yAVjhWTwciXSMQT14ePXnA,1751871653/streaming/konniy/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10384/logo_256_1658737285.png", Перпетуум Мобиле
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Ss5WL6v3s3MAHsJi7nhM1A,1751871653/streaming/pmobile/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10385/logo_256_1658737896.png", Терра Инкогнита
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/oheTszR_eYKTekO4jSc00Q,1751871653/streaming/terra/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/17221/logo_256_1682688193.png", The Explorers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/iVpWPU40jrFisomrGGW-VQ,1751871653/streaming/explorers/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10676/logo_256_1660828620.png", Глазами туриста
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/3cj4xY3o54bPfI8kjv0Urw,1751871653/streaming/tourist_eyes/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10675/logo_256_1658734683.png", Живая природа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/3o3tl724jIIuHh6K-JqYrw,1751871653/streaming/livenature/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10386/logo_256_1658737079.png", Неизвестная планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/lfasuSqnQJYWrPncGEjHoQ,1751871653/streaming/np/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10830/logo_256_1660892108.png", Тайны Галактики
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/bJ-1ivJc4s6rylRq6JIiuA,1751871653/streaming/taina-galaxy/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11159/logo_256_1655386039.png", Загородная Жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/C3jKck65do2BXgv2wsgClw,1751871653/streaming/zagorod/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10625/logo_256_1660892023.png", Insight TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/e9MbFCA6buG4f6ZAjuHDqA,1751871653/streaming/insight/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10045/logo_256_1658733896.png", Travel+Adventure HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/fINLyZcUlbk9MpXFjUmoYQ,1751871653/streaming/travelhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/160/logo_256_1658733833.png", RTG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/ovzmAJe3v1_G-_o7F6gCNQ,1751871653/streaming/rtg/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10031/logo_128_1652790001.png", RTG HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/mXexXwCLV0mA08noYMoASg,1751871653/streaming/rtghd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10051/logo_256_1658734554.png", Домашние животные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/kTCEtgmO8OFb1O5ToKforg,1751871653/streaming/homejivotnie/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10056/logo_256_1658733987.png", Zooпарк
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/KYMWBgPkb4gXPMS1y9k5WA,1751871653/streaming/zoopark/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10216/logo_256_1658733931.png", UNIVER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Zbt4EwcoCLVeiSfqOCbbew,1751871653/streaming/univertv/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10345/logo_256_1658734259.png", Большая Азия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/LRNO8c3w0PDNw-_jSfdBpw,1751871653/streaming/bigasia/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10222/logo_256_1658737177.png", Открытый мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/d7rzry0nmk04dHvhMYXprw,1751871653/streaming/openmir/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12384/logo_256_1655390600.png", Travelxp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/aAglH2JVJaxC3lqHAJCkZA,1751871653/streaming/travelxp/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14386/logo_256_1658733516.png", Big Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/R8T1GtAKvN6_luY4_X_Ufw,1751871653/streaming/big_planet/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10300/logo_256_1658733419.png", #КтоКуда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Iv8JjvduawNUgvrREluQMA,1751871653/streaming/hobbies/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10159/logo_256_1660828931.png", Приключения HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/arNsdcb1XqfF2xWIRb6ykA,1751871653/streaming/adventurehd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10160/logo_256_1658737251.png", Первый космический HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/U6ukjpkgUFBgWfwtJU_glQ,1751871653/streaming/eurekahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10147/logo_256_1658737300.png", Пес и Ко
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/UnaGdCV0Sc1jBRLrtuhI4A,1751871653/streaming/pesiko/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10175/logo_256_1658737878.png", Телепутешествия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/yYUViDE5M34EMHIRy1I_nw,1751871653/streaming/adventure/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10178/logo_256_1658736150.png", Зоо ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/yIH0AiS6Sdjvka1Xdov6WA,1751871653/streaming/zoo/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10156/logo_256_1658734302.png", В мире животных HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/1KMYP7eBHyIeCLeAVpdncg,1751871653/streaming/animalshd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10093/logo_256_1658737031.png", Нано
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/8E_ic0NX8UwPy-OCnrku2g,1751871653/streaming/nano/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10120/logo_256_1660805741.png", Министерство Идей
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/OLIxYqKRBGDVRMC2ZCb2CQ,1751871653/streaming/minidei/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/167/logo_256_1655452105.png", ЧЕ!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/sBGQkWGd60g7zw1Rte1LSg,1751871654/streaming/cheott/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/1/logo_256_1655386719.png", 2x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/h_wldLL1_CtIPmrLAhPr-w,1751871654/streaming/2x2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10074/logo_256_1658736572.png", Калейдоскоп ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/O3U7cQd6z77-81SRd1Hf8g,1751871654/streaming/kaleidoskop/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/168/logo_256_1655452084.png", ТНТ4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/HZE9nqHjXkp38vmkfpbtAg,1751871654/streaming/tnt4ott/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10259/logo_256_1655452061.png", СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/B-0NDETej0nn9CsBCRGpww,1751871654/streaming/stsloveott/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10137/logo_256_1658734039.png", Анекдот ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/tiUjKT68IgynMK5FlnLW1Q,1751871654/streaming/anekdot/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12125/logo_256_1660892061.png", Ностальгия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/pvJrxGxenYEM20fBRTUJLA,1751871654/streaming/nostalgiya/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10634/logo_256_1658733744.png", Gags Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/uzTv7sndrr5PsXgjk99lTg,1751871654/streaming/gagsnetwork/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10071/logo_256_1658737421.png", Ретро ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/CeVC4rpSFBnSutzJkjJgZg,1751871654/streaming/retro/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10299/logo_256_1658733817.png", Ocean TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/hBnHTMtP6QhJGV5KvtC3ew,1751871654/streaming/oceantv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10174/logo_256_1661854776.png", Загородный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/wE84SUdbvhsKoESuMgHuYg,1751871654/streaming/country/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/157/logo_256_1655390359.png", СПОРТ!+match
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/W2ZuxQH8WKoJtyNT9sMirg,1751871654/streaming/matchott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10167/logo_256_1660892008.png", СПОРТ!+ Страна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/r2eGT7BpmGuo4i72i-VnOw,1751871654/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/172/logo_256_1658736816.png", СПОРТ!+ Арена
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/EDRGcwixSXHdGQLIaQWl7Q,1751871654/streaming/match_arena/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/175/logo_256_1658736830.png", СПОРТ!+ Боец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/o6668zVoSF8Qpx0HNOWy8w,1751871654/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/174/logo_256_1658736842.png", СПОРТ!+ Игра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/_e-VgfYLoCeuxPgw9RAt-g,1751871654/streaming/match_igra/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10236/logo_256_1660805653.png", СПОРТ!+ Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/K71Q3VXVcBLL4jyza1DxeA,1751871654/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10234/logo_256_1660805619.png", СПОРТ!+ Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/EP7l86W9X51612L3SQmIjA,1751871654/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10235/logo_256_1660805632.png", СПОРТ!+ Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/9pCjzZ3dU4t0v14xsFxlCw,1751871654/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10180/logo_256_1658736853.png", СПОРТ!+ Премьер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/rAG5tgFwKvLPTTK3cybbAw,1751871654/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10227/logo_256_1660806192.png", СПОРТ!+ Премьер HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/votDtxj891rzk7y79m3tMA,1751871654/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10659/logo_256_1658744849.png", Хоккейный HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Y2_pGOYac3HOwZk8Z8dfVw,1751871654/streaming/hokkeyniy/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10263/logo_256_1655389393.png", KHL Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/4SrCJgIEK8xC6S8yKHqpcw,1751871654/streaming/khlhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11908/logo_256_1655389198.png", Футбольный HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/fKNEz-eeKDMJIyIwoj3QAQ,1751871654/streaming/footbolniyhd/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10672/logo_256_1658737687.png", Спортивный HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/XBl1bVbq3q7YKDGo5MVoJg,1751871654/streaming/sportivniyhd/324/1/index.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/170/logo_256_1655389371.png", KHL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/qiEb4NPcbQBboGyl4ruUCw,1751871654/streaming/khltv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10310/logo_256_1655386640.png", Моторспорт ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/k3ADy8EwoWF9yXYLz-KArw,1751871654/streaming/motosport/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Каналы тест" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10151/logo_256_1658734245.png", Бокс ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/esla8R8N_TGdLRqE500fIw,1751871654/streaming/bokstv/324/1/tracks-v5a1/mono.m3u8
+               
+
+#EXTINF:-1 group-title="Каналы с VPN", TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=SSAQcUjgsYR2TicDyMVpaw&e=1752184424&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Каналы с VPN", TV1000 Action
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=bTtcgb9gPIRWd9kafkd-hQ&e=1752184463&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Каналы с VPN",viju TV1000 новелла
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=9Qczw2zRJLTahDPtRz9Cjw&e=1750042751&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Каналы с VPN",viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=EYpTM9n6q6t0wRJdAQ0O2g&e=1752184502&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Каналы с VPN",КП
+http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Киносемья
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Киносвидание
+http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",ПРИКЛЮЧЕНИЯ
+http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",ЛАПКИ Live
+http://tvip.btk.teleos.ru:8081/chid514/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",ФАНТАСТИКА HD
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Каналы с VPN",IPTVPLAY ПАМЯТЬ HD
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Каналы с VPN",IPTVPLAY УЖАСТИК HD
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Каналы с VPN",IPTVPLAY PROMO HD
+http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="Каналы с VPN",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Твоё ТВ HD Юмор 
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Ин кино
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Мужское Кино
+http://178.212.71.253:8000/play/126/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Киносемья
+http://178.212.71.253:8000/play/127/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Киносвидание
+http://178.212.71.253:8000/play/122/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Киномикс
+http://178.212.71.253:8000/play/70/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Кинохит
+http://178.212.71.253:8000/play/123/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Наше Новое Кино
+http://178.212.71.253:8000/play/128/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",КП HD
+http://178.212.71.253:8000/play/125/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Кинокомедия
+http://178.212.71.253:8000/play/85/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Родное Кино
+http://178.212.71.253:8000/play/136/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Ностальгия
+http://178.212.71.253:8000/play/131/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Кто Есть Кто
+http://178.212.71.253:8000/play/132/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Киноужас
+http://178.212.71.253:8000/play/133/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Кино ТВ
+http://178.212.71.253:8000/play/78/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Индия
+http://178.212.71.253:8000/play/59/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Киносерия
+http://178.212.71.253:8000/play/64/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Киносат
+http://178.212.71.253:8000/play/66/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Cinema
+http://178.212.71.253:8000/play/40/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",М-Золотая коллекция
+http://178.212.71.253:8000/play/124/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Ретро
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",2x2
+http://178.212.71.253:8000/play/113/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Р Бестселер
+http://178.212.71.253:8000/play/115/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Р Детектив
+http://178.212.71.253:8000/play/45/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Р Иллюзион
+http://178.212.71.253:8000/play/49/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Любимое кино
+http://178.212.71.253:8000/play/50/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Дом Кино
+http://178.212.71.253:8000/play/99/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",НСТ
+http://178.212.71.253:8000/play/100/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN", CTC love
+http://178.212.71.253:8000/play/104/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Че
+http://178.212.71.253:8000/play/139/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",СТС
+http://178.212.71.253:8000/play/13/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Домашний
+http://178.212.71.253:8000/play/14/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",ТВ3
+http://178.212.71.253:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Пятница
+http://178.212.71.253:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",RTG TV
+http://178.212.71.253:8000/play/71/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Живая природа
+http://178.212.71.253:8000/play/79/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",История
+http://178.212.71.253:8000/play/87/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Охота и Рыбалка
+http://178.212.71.253:8000/play/93/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Живая Планета
+http://178.212.71.253:8000/play/114/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Моя Планета
+http://178.212.71.253:8000/play/117/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Наука
+http://178.212.71.253:8000/play/88/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Большая азия
+http://178.212.71.253:8000/play/83/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Техно 24
+http://178.212.71.253:8000/play/63/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Доктор
+http://178.212.71.253:8000/play/68/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Авто плюс
+http://178.212.71.253:8000/play/69/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Здоровое ТВ
+http://178.212.71.253:8000/play/94/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Домашние животные
+http://178.212.71.253:8000/play/95/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Конный Мир
+http://178.212.71.253:8000/play/108/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Eurosport 1
+http://178.212.71.253:8000/play/143/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Матч ТВ HD
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",СПОРТ! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",СПОРТ! Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",СПОРТ! Борец
+http://178.212.71.253:8000/play/55/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",СПОРТ! Игра
+http://178.212.71.253:8000/play/56/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",СПОРТ! Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",СПОРТ! Футбол 1
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Amedia Premium
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Cinema
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="KINO+📺",КП HD
+http://178.124.179.122:8088/Kinopremiera/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",КП SD
+http://radio.tvs.by:8088/Kinopremiera/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Kinopremera_HD
+http://213.230.65.252:8000/play/aa65
+#EXTINF:-1 group-title="KINO+📺",КиноП HD
+http://80.245.95.243:8888/play/a00s/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",KinoPrHD
+http://s1.merlive.am/KinopremeraHD/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",КP HD
+http://77.235.1.19:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино_п
+https://vod.splay.uz/live_splay/original/Kinopremera/mono.ts.m3u8
+#EXTINF:-1.group-title="KINO+📺",Кино_хит
+https://vod.splay.uz/live_splay/original/Kinoxit/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кинохит HD
+http://77.235.1.19:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кинохит
+http://80.245.95.243:8888/play/a00j/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кинохит 720x576
+http://s1.merlive.am/KinoxitHD/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Kinoxit_HD
+http://213.230.65.252:8000/play/aa59
+#EXTINF:-1 group-title="KINO+📺",Kinoxit_SD
+http://213.230.65.252:8000/play/aa67
+#EXTINF:-1 group-title="KINO+📺",Кинохит r
+http://195.245.99.242/Kinohit/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кинокомедия
+http://195.245.99.242:80/Kinocomedia/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",Kino komediya
+http://178.217.72.66:8080/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Kinokomediya_HD
+http://213.230.65.252:8000/play/aa55
+#EXTINF:-1 group-title="KINO+📺",Кино_Комедия
+https://vod.splay.uz/live_splay/original/Kinokomediya/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",КиноKомедия
+http://s1.merlive.am/Kinokomedia/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кинокомедия
+http://80.245.95.243:8888/play/a014/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино_комедия
+http://178.124.193.53:8181/play/1170/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Komediya
+http://178.217.72.66:8080/Komediya/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Комедия
+https://s1.merlive.am/Komedia/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Kinomiks_HD
+http://213.230.65.252:8000/play/aa68
+#EXTINF:-1 group-title="KINO+📺",Киномикс HD
+http://80.245.95.243:8888/play/a012/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",КиноМикс
+http://s1.merlive.am/kinomix/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Киномикс_HD
+http://77.235.1.19:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Киномикс
+http://178.124.193.53:8181/play/1167/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино_микс
+https://vod.splay.uz/live_splay/original/KinomiksHD/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНОСЕМЬЯ
+http://178.217.72.66:8080/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Киносемья
+http://80.245.95.243:8888/play/a013/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Kinosemya_SD
+http://213.230.65.252:8000/play/aa5d
+#EXTINF:-1 group-title="KINO+📺",Киносемья HD
+http://77.235.1.19:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино_семья
+https://vod.splay.uz/live_splay/original/Kinosemya/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",Киносерия 720x576
+http://195.245.99.242/Kinoseriya/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",КиноCерия
+http://80.245.95.243:8888/play/a002/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Киносерия
+https://vod.splay.uz/live_splay/original/Kinoseriya/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",Kinoseriya_HD
+http://213.230.65.252:8000/play/aa57
+#EXTINF:-1 group-title="KINO+📺",Kinosvidaniye_HD
+http://213.230.65.252:8000/play/aa58
+#EXTINF:-1 group-title="KINO+📺",Kinosvidaniye_SD
+http://213.230.65.252:8000/play/aa66
+#EXTINF:-1 group-title="KINO+📺",Kinosvidanie
+http://213.230.65.254:8000/play/a97
+#EXTINF:-1 group-title="KINO+📺",КиноСвидание
+http://195.245.99.242/Kinosvidanie/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",Киносвидание
+http://178.217.72.66:8080/Kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Киносвидание r
+http://80.245.95.243:8888/play/a02i/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино_свидание
+https://vod.splay.uz/live_splay/original/Kinosvidanie/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",Мужское кино
+https://vod.splay.uz/live_splay/original/Mujskoe-KinoHD/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",Мужское Кино 720х576
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+#EXTINF:-1 group-title="KINO+📺",Мужское Кино -4
+http://80.245.95.243:8888/play/a011/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",МУЖСКОЕ КИНО HD
+http://77.235.1.19:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",MUJSKOYE_KINO_HD
+http://213.230.65.252:8000/play/aa5c
+#EXTINF:-1 group-title="KINO+📺",V Kino COMEDY
+http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju+_Comedy_HD
+http://213.230.65.252:8000/play/aaa5
+#EXTINF:-1 group-title="KINO+📺",viju+_Premiyere
+http://213.230.65.252:8000/play/aa6b
+#EXTINF:-1 group-title="KINO+📺",viju+_Megahit_HD
+http://213.230.65.252:8000/play/aa54
+#EXTINF:-1 group-title="KINO+📺",viju+_Serial_HD
+http://213.230.65.252:8000/play/aaa6
+#EXTINF:-1 group-title="KINO+📺",VIJU+ COMEDY
+http://195.245.99.242/vip_comedy/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",VIP Comedy
+http://80.245.95.243:8888/play/kln006/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",VIP Megahit
+http://80.245.95.243:8888/play/iop001/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",VIP Premiera
+http://80.245.95.243:8888/play/klm009/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju+ Comedy
+http://77.235.1.19:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju+ Megahit
+http://77.235.1.19:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju+ Premiere
+http://77.235.1.19:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju+ Serial
+http://77.235.1.19:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 romantica
+http://77.235.1.19:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",TV 1000
+http://80.245.95.243:8888/play/a02g/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",TV 1000RU
+http://80.245.95.243:8888/play/a02k/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",TV1000 Action
+http://80.245.95.243:8888/play/a00i/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",tv1000
+http://178.134.1.158:8081/tv1000/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+📺",1000
+http://195.245.99.242/1000/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",1000 Action
+http://195.245.99.242/1000_action/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",tv1000action
+http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+📺",TV 1000 720x576
+http://178.217.72.66:8080/TV_1000/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 Action
+http://178.217.72.66:8080/TV_1000_Action/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",TV 1000 Action
+http://178.124.193.53:8181/play/1046/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 R Kino
+http://213.91.178.133:8000/play/a0bx
+#EXTINF:-1 group-title="KINO+📺",TV 1000 р кино
+http://178.124.193.53:8181/play/1047/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 HD
+https://vod.splay.uz/live_splay/original/TV1000/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 Р HD
+https://vod.splay.uz/live_splay/original/TV1000rus/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",FILM TV GROUP
+http://filmtv.zapto.org/FILM_TV_GROUP/video.m3u8?token=Ijb9BSWre2eLJ3
+#EXTINF:-1 group-title="KINO+📺",Новосілки ТБ
+http://filmtv.zapto.org/novosilkitb/video.m3u8?token=Ijb9BSWre2eLJ3
+#EXTINF:-1 group-title="KINO+📺",FILM TV Кінозал
+http://filmtv.zapto.org/FILMTVKinozal/video.m3u8?token=Ijb9BSWre2eLJ3
+#EXTINF:-1 group-title="KINO+📺",Бровари Кіно TV
+https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:-1 group-title="KINO+📺",SineMan
+http://rr3.8v8i8p.com/20689cbc9966bdeb8a18b96b8aa36090cb3/52239/hls/pl.m3u8
+#EXTINF:-1 group-title="KINO+📺",Иллюзион + 720x576
+http://77.235.1.19:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Plan B
+http://77.235.1.19:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",SHOT TV
+http://77.235.1.19:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Еврокино
+http://87.120.142.11:18000/STSLove
+#EXTINF:-1 group-title="KINO+📺",ЕвроKино 720x576
+http://s1.merlive.am/eurokino/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Еврокино 720x576
+http://178.124.193.53:8181/play/1085/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",TVXXI
+http://178.124.193.53:8181/play/1431/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",TVxxI
+http://178.134.1.158:8081/TVXXI/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+📺",Кино ТВ
+http://178.217.72.66:8080/Kino_TV/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино ТВ hd
+http://s1.merlive.am/kinotvhd/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино ТВ (+4)
+http://77.235.1.19:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Киноман
+http://77.235.1.19:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кинеко
+http://77.235.1.19:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кинеко HD
+http://77.235.1.19:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНЕКО HD
+http://s1.merlive.am/kineko/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Kinopokaz
+http://213.230.65.254:8000/play/a9e
+#EXTINF:-1 group-title="KINO+📺",ATV Kinoman
+http://s1.merlive.am/Kinoman/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",BOLT
+http://77.235.1.19:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",CINEMA
+http://178.217.72.66:8080/cinema/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Cinema
+http://195.245.99.242:80/Sinema/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",Cinema r
+http://80.245.95.243:8888/play/a02w/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",HOLLYWOOD
+http://s1.merlive.am/hollywood/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Hollywood HD
+http://213.230.65.254:8000/play/adc
+#EXTINF:-1 group-title="KINO+📺",Hollywood
+http://5.134.87.11:4600/Hollywood/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Hollywood 720х576
+http://77.235.1.19:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Hollywood sd
+http://mfe01.cliptv.az/dash/Hollywood_SDkhg357.ism/playlist.mpd
+#EXTINF:-1 group-title="KINO+📺",Kinowood
+http://193.27.209.122/kinowood/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Bollywood HD
+http://193.27.209.122/bollywood/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Bollywood 720x576
+http://178.217.72.66:8080/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Bollywood 
+http://s1.merlive.am/Bollywood/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Классика индийского кино
+https://autopilot.catcast.tv/content/41596/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Индия
+http://195.245.99.242:80/ZeeTV/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",Индийское кино
+http://195.245.99.242:80/India/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",Индийское Кино
+https://vod.splay.uz/live_splay/original/Indiyskoe_Kino/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",312 Кино 
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",Видеокассета E-180
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",ВидеоКассета Киномир
+http://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Затеряный Мир
+https://v2.catcast.tv/content/47781/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Чародеи
+https://v2.catcast.tv/content/47783/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Сити Эдем - Кино Комедия
+https://v2.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Сити Эдем - Кино Экшен
+https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Сити Эдем - Кино Мистика
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Сити Эдем - Кино Детектив
+https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Сити Эдем - Кино Новелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",MGM
+https://autopilot.catcast.tv/content/44051/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Malder Мегахит
+https://autopilot.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Нове тв 
+https://novoe.top/nove_tv.m3u8.jpg?m3u8
+#EXTINF:-1 group-title="KINO+📺",FX
+http://195.245.99.242/FOX/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",FX Life
+http://188.237.47.212:6008
+#EXTINF:-1 group-title="KINO+📺",Amedia 1
+http://sc.id-tv.kz/A1.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia1 720x576
+http://195.245.99.242/Amedia1/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺", A1 720x576
+http://s1.merlive.am/Amedia1/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia1 hd
+http://178.217.72.66:8080/A1/video.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia2 hd
+http://178.217.72.66:8080/A2/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia 2 
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title="KINO+📺",A2 720x576
+http://s1.merlive.am/Amedia2/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia 2
+http://77.235.1.19:8000/play/a069/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia 2 HD
+http://77.235.1.19:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia Hit HD
+http://178.217.72.66:8080/Amedia_Hit/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia Hit HD
+http://77.235.1.19:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia Premium HD
+http://77.235.1.19:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia Premium HD
+http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",.Sci-Fi
+http://s1.merlive.am/Sci-Fi/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",sci-fi 
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Sci-Fi
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Red
+http://178.124.152.238:8088/sony
+#EXTINF:-1 group-title="KINO+📺",Red HD
+http://77.235.1.19:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",RED
+http://80.245.95.243:8888/play/a00n/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",BLACK
+http://80.245.95.243:8888/play/a010/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Black
+http://5.134.87.11:4600/Black/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",.black
+http://s1.merlive.am/black/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Киноужас
+http://195.245.99.242:80/Kinouzhas/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",НСТ
+http://195.245.99.242/NST/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",NST
+http://178.217.72.66:8080/NSTV/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",nst
+http://178.134.1.158:8081/nst/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+📺",Continent E
+http://95.67.12.82:9083
+#EXTINF:-1 group-title="KINO+📺",Dorama
+http://95.67.12.82:9046
+#EXTINF:-1 group-title="KINO+📺",TV 1 KG FHD
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",Седьмой канал KZ
+http://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1 group-title="KINO+📺",31 канал KZ
+http://sc.id-tv.kz/31Kanal_34_35.m3u8
+#EXTINF:-1 group-title="KINO+📺",Star_Cinema
+https://vod.splay.uz/live_splay/original/Star_Cinema/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",Star Cinema
+http://77.235.1.19:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Star Family
+http://77.235.1.19:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Suspense
+http://77.235.1.19:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",FilmBox
+http://77.235.1.19:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",FilmBox Arthouse
+http://77.235.1.19:8000/play/a082/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 3
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 6
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 7
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 8
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 9
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 10
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 11
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 12
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 13
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 14
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 15
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 16
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 17
+https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 18
+https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 19
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 20
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 21
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 22
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 23
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 24
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 25
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 26
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 27
+https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 28
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 29
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 30
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 31
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 32
+https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 33
+https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 34
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 35
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 36
+https://fl1001.bozztv.com/ushba64/index.m3u8
+#EXTINF:-1 group-title="KINO+📺", Usba Кинозал 37
+https://fl1001.bozztv.com/ushba65/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Timeless Dizi Channel
+http://194.158.222.36:6086
+#EXTINF:-1 group-title="KINO+📺",dizi HD
+http://193.27.209.122/dizi/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Дорама
+http://193.27.209.122/dorama/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",12 TV
+https://streaming.goodstream.cyou/live/7004.m3u8
+#EXTINF:-1 group-title="KINO+📺",Cinema Космос ТВ HD BY
+http://178.124.152.238:8088/cinema
+#EXTINF:-1 group-title="KINO+📺",tnt
+http://178.134.1.158:8081/tnt/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+📺",TNT
+https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="KINO+📺",TNT 4
+http://178.217.72.66:8080/TNT4/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Дом Кино
+https://streaming.goodstream.cyou/live/44.m3u8
+#EXTINF:-1 group-title="KINO+📺",Дом Кино HD
+https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="KINO+📺",Dom Kino
+http://178.217.72.66:8080/Dom_Kino/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Dom Kino Premium
+http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Nashe Novoe Kino
+http://178.217.72.66:8080/Nashe_Novoe_Kino/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Наше новое кино
+https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",Мир сериала
+http://178.217.72.66:8080/Mir_Seriala/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",TV3
+http://195.245.99.242/TV3/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",STS HD
+http://178.217.72.66:8080/STS/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",СТС
+http://195.245.99.242/STS/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",СТС SD
+https://streaming.goodstream.cyou/live/296.m3u8
+#EXTINF:-1 group-title="KINO+📺",STS
+https://streaming.skynetconnect.online/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="KINO+📺",STS_int
+http://213.91.178.133:8000/play/a05u
+#EXTINF:-1 group-title="KINO+📺",Domashniy_Int
+http://213.91.178.133:8000/play/a0b5
+#EXTINF:-1 group-title="KINO+📺",TV R
+http://213.91.178.133:8000/play/a082
+#EXTINF:-1 group-title="KINO+📺",Че!
+http://77.235.1.19:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Роман
+http://77.235.1.19:8000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Детектив
+http://77.235.1.19:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Рдетектив 
+http://195.245.99.242/Detectiv/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",Р бестселлер
+http://195.245.99.242/Bestseler/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",Бестселлер
+http://77.235.1.19:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",РИллюзион
+http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Родное кино
+http://178.217.72.66:8080/Rodnoe_Kino/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Родное Кино
+http://195.245.99.242:80/Rodnoe/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",Родное_кино
+https://vod.splay.uz/live_splay/original/Rodnoe_Kino/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",Lyubimoe Kino
+http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Золотая коллекция
+http://178.217.72.66:8080/mosfilm/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Мосфильм
+http://195.245.99.242:80/Mosfilm/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",mosfilm
+http://178.134.1.158:8081/mosfilm/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+📺",RENTV
+http://178.134.1.158:8081/RENTV/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+📺",REN TV HD
+http://178.217.72.66:8080/REN_TV/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",REN TV
+http://213.91.178.133:8000/play/a0ax
+#EXTINF:-1 group-title="KINO+📺",Peretz
+http://213.91.178.133:8000/play/a0ay
+#EXTINF:-1 group-title="KINO+📺",Perets Int
+http://87.118.142.91:6060/play/a02u
+#EXTINF:-1 group-title="KINO+📺",rtvi
+http://178.134.1.158:8081/rtvi/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+📺",Любимое кино 720x576
+http://213.91.178.133:8000/play/a0af
+#EXTINF:-1 group-title="KINO+📺",Бел 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="KINO+📺",Ретро ТВ
+http://194.158.218.123:8880/Retrotv/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Ретро
+http://213.230.65.252:8000/play/aa5f
+#EXTINF:-1 group-title="KINO+📺", Ретро_ТВ
+https://vod.splay.uz/live_splay/original/Retro/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",Ностальгия
+http://77.235.1.19:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Ностальгия R
+http://178.124.152.238:8088/nostalgia
+#EXTINF:-1 group-title="KINO+📺",Ностальгия 720x576
+http://s1.merlive.am:80/Nostalgia/index.m3u8
+
+
+#EXTINF:-1 group-title="Україна 🇺🇦",ПЕРШИЙ
+https://tva.in.ua/live/first.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ПЕРШИЙ HD
+http://193.107.168.98:7006/play/526/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 марафон
+https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 Ukraine international
+http://80.245.95.243:8888/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 Україна
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10163
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 Україна HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10244
+#EXTINF:-1 group-title="Україна 🇺🇦",2+2 hd
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10188
+#EXTINF:-1 group-title="Україна 🇺🇦",2+2
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10086
+#EXTINF:-1 group-title="Україна 🇺🇦",Новий канал FHD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10043
+#EXTINF:-1 group-title="Україна 🇺🇦",Новый Канал
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10183
+#EXTINF:-1 group-title="Україна 🇺🇦",СТБ HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10184
+#EXTINF:-1 group-title="Україна 🇺🇦",ТЕТ
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10047
+#EXTINF:-1 group-title="Україна 🇺🇦",ТЕТ HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10189
+#EXTINF:-1 group-title="Україна 🇺🇦",HTH hd
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10193
+#EXTINF:-1 group-title="Україна 🇺🇦",K1 HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10197
+#EXTINF:-1 group-title="Україна 🇺🇦",K1
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10099
+#EXTINF:-1 group-title="Україна 🇺🇦",K2 HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10198
+#EXTINF:-1 group-title="Україна 🇺🇦",K2
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10100
+#EXTINF:-1 group-title="Україна 🇺🇦",Інтер +
+http://45.143.108.110:4200/INTER
+#EXTINF:-1 group-title="Україна 🇺🇦",Enter-фільм 
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10195
+#EXTINF:-1 group-title="Україна 🇺🇦",Enter-фільм 720x576
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10087
+#EXTINF:-1 group-title="Україна 🇺🇦",Action TVOE Kino HD
+http://193.27.209.122/tvoje_kino_action/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Xit TVOE Kino HD
+http://193.27.209.122/tvoje_kino_hit/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Super+ HD
+http://193.27.209.122/super_plus/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",FILM TV GROUP
+http://filmtv.zapto.org/FILM_TV_GROUP/video.m3u8?token=Ijb9BSWre2eLJ3
+#EXTINF:-1 group-title="Україна 🇺🇦",Новосілки ТБ
+http://filmtv.zapto.org/novosilkitb/video.m3u8?token=Ijb9BSWre2eLJ3
+#EXTINF:-1 group-title="Україна 🇺🇦",FILM TV Кінозал
+http://filmtv.zapto.org/FILMTVKinozal/video.m3u8?token=Ijb9BSWre2eLJ3
+#EXTINF:-1 group-title="Україна 🇺🇦",Бровари Кіно TV
+https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",kinosweet HD
+http://193.27.209.122/kinosweet/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Сine+ legend
+http://193.27.209.122/cine_plus_legend/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",PRO KINO HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10093
+#EXTINF:-1 group-title="Україна 🇺🇦",BOLT UA
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10118
+#EXTINF:-1 group-title="Україна 🇺🇦",АМС
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10174
+#EXTINF:-1 group-title="Україна 🇺🇦",KINOSWEET HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10140
+#EXTINF:-1 group-title="Україна 🇺🇦",KINOWOOD HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10137
+#EXTINF:-1 group-title="Україна 🇺🇦",Star Family LV HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10127
+#EXTINF:-1 group-title="Україна 🇺🇦",Star Cinema
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10128
+#EXTINF:-1 group-title="Україна 🇺🇦",FILM UA Drama
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10117
+#EXTINF:-1 group-title="Україна 🇺🇦",4EVER Cinema HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10148
+#EXTINF:-1 group-title="Україна 🇺🇦",4EVER Grama HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10130
+#EXTINF:-1 group-title="Україна 🇺🇦",КВАРТАЛ
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10235
+#EXTINF:-1 group-title="Україна 🇺🇦",Usba TV - Україна
+https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Usba TV - Україна 2
+https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Сонце HD TV 
+https://tva.in.ua/live/sonce.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Сонце
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10121
+#EXTINF:-1 group-title="Україна 🇺🇦",Бігуді
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10165
+#EXTINF:-1 group-title="Україна 🇺🇦",ОЦЕ
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10181
+#EXTINF:-1 group-title="Україна 🇺🇦",ОЦЕ HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10187
+#EXTINF:-1 group-title="Україна 🇺🇦",Zoom HD 
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10199
+#EXTINF:-1 group-title="Україна 🇺🇦",Zoom
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10101
+#EXTINF:-1 group-title="Україна 🇺🇦",Наше улюблене кіно
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10068
+#EXTINF:-1 group-title="Україна 🇺🇦",Твій серіал HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10045
+#EXTINF:-1 group-title="Україна 🇺🇦",Твій серіал hd
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10095
+#EXTINF:-1 group-title="Україна 🇺🇦",ПЕРШИЙ XTV MEDIA
+http://hls.xtvmedia.pp.ua/hls/trk1tv.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ПЕРШИЙ XTV MEDIA r
+http://hls.xtvmedia.pp.ua:8080/hls/trk1tv.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",МИ+ УКРАЇНА HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Gags Network  
+http://95.67.12.82:9069
+#EXTINF:-1 group-title="Україна 🇺🇦",Перший Кабельний
+http://91.226.35.134:8081/PK
+#EXTINF:-1 group-title="Україна 🇺🇦",Continent E
+http://95.67.12.82:9083
+#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Київ HD TV 
+https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Запоріжжя
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Луцьк 
+http://193.107.168.98:7006/play/508/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Крим
+http://193.107.168.59:7005/play/436/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Крим TV 
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Культура HD TV 
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Суспільне Миколаїв HD
+http://portal.ott.pink/watch/7763/index.m3u8?geo=auto&free=true&token=2B8378CADCB27AA393170BD7EDB7C0E9
+#EXTINF:-1 group-title="Україна 🇺🇦",Орбiта tva.org.ua
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",OstWest 24
+http://95.67.12.82:9077
+#EXTINF:-1 group-title="Україна 🇺🇦",Круг (Одеса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",5 КАНАЛ
+https://m3u8.ott.blue/watch/7/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Україна 🇺🇦",7 КАНАЛ
+https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",8 канал HD TV
+https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Армія ТВ HD
+https://m3u8.ott.blue/watch/7572/index.m3u8?geo=auto&token=94450098895765784220366841698509 
+#EXTINF:-1 group-title="Україна 🇺🇦",Перший Кабельний
+http://91.226.35.134:8081/PK 
+#EXTINF:-1 group-title="Україна 🇺🇦",24 канал TV 
+https://ext.cdn.nashnet.tv/228.0.0.33/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",24 Канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",КИЇВ 24
+https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",СK 1 
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ПРЯМИЙ HD
+https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ІСЛАНДІЯ
+https://ext.cdn.nashnet.tv/228.0.3.231/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",FREEдом
+http://95.67.106.242/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",FREEDOM
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Нове тв 
+https://novoe.top/nove_tv.m3u8.jpg?m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Renome 
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",TVA
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+#EXTINF:-1 group-title="Україна 🇺🇦",Надія/N.K.
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ТРК Надія - Новий Канал (Первомайский)
+http://178.217.215.57/mob/mystream.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ЕСПРЕСО HD
+https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",РАДА
+http://193.107.168.98:7001/play/24/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",РАДА HD
+https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Belsat TV 
+https://irylek.ct8.pl/stream/belsat
+#EXTINF:-1 group-title="Україна 🇺🇦",Полтавське ТВ
+http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",PTV Полтавское TV
+https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Тернопіль 1
+http://185.53.79.12/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 group-title="Україна 🇺🇦",Тернопiль 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 group-title="Україна 🇺🇦",НТК Коломия
+https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 group-title="Україна 🇺🇦",ТВА tva*org-ua
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ТВА tva*in-ua
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ГІТ (Волинь)
+http://stream.uagit.tv/gittv.m3u8?key=iptv.org.ua
+#EXTINF:-1 group-title="Україна 🇺🇦",ГРОМАДСЬКЕ ІНТЕРАКТИВНЕ ТЕЛЕБАЧЕННЯ (Луцьк)
+https://stream.uagit.tv/gittv.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 group-title="Україна 🇺🇦",33 канал
+https://33news.org/33chanel/live/chunklist_w1484176056.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",33 канал (Хмельницький)
+https://33news.org/33chanel/live/chunklist_w459617257.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",МТМ Запоріжжя
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",1 Городский Кривий Ріг
+https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",1 Городский Одеса HD
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ЧОРНОМОРСКЕ HD TV
+https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Чорноморська ТРК
+https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Аверс (Луцьк)
+https://avers.pp.ua/hls/efir.m3u8?key=iptv*org*ua
+#EXTINF:-1 group-title="Україна 🇺🇦",Аверс tva.org.ua
+https://m3u8.ott.blue/watch/356/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Україна 🇺🇦",D1
+https://m3u8.ott.blue/watch/7494/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Україна 🇺🇦",Балта ТВ HD
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Telekanal RAI 
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Глас
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",TIS TV
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ATR
+https://ext.cdn.nashnet.tv/228.0.0.49/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ITV (Рівне)
+http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",АПОСТРОФ
+https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Ribalka i Ohota
+http://87.118.142.91:6060/play/a03r
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",History HD [RU-EN-CZ]
+http://95.67.12.81:10619?key=fas-tv.com
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",History 2 HD [RU-EN-CZ]
+http://95.67.12.81:10620?key=fas-tv.com
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG int
+http://213.91.178.133:8000/play/a0bw
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",viju Explore HD
+https://vod.splay.uz/live_splay/original/Viasat_Explorer/mono.ts.m3u8
+#EXTINF:-1 tvg-id="viasat-nature" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ", viju Nature HD
+https://vod.splay.uz/live_splay/original/Viasat_History/mono.ts.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",viju History HD
+https://vod.splay.uz/live_splay/original/Viasat_History/mono.ts.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild СНГ HD
+https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/mono.ts.m3u8
+#EXTINF:-1 tvg-id="galaxy-tv" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Тайны Галактики
+https://vod.splay.uz/live_splay/original/TayniGalaktiki/mono.ts.m3u8
+#EXTINF:-1 tvg-id="national-geographic" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",National Geographic
+https://vod.splay.uz/live_splay/original/National_Geographic/mono.ts.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+https://vod.splay.uz/live_splay/original/Discovery_Channel/mono.ts.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ" tvg-id="animal-planet",Animal Planet
+https://vod.splay.uz/live_splay/original/Animal_Planet/mono.ts.m3u8
+#EXTINF:-1 tvg-id="avto24" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+https://vod.splay.uz/live_splay/original/Avto24/mono.ts.m3u8
+#EXTINF:-1 tvg-id="avto-plus" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто Плюс
+https://vod.splay.uz/live_splay/original/Avto_Plus/mono.ts.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Zivi
+http://213.91.178.133:8000/play/a0bg
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ONE PLANET
+http://95.67.12.82:9088
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Continent E
+http://95.67.12.82:9083
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Travel Channel
+http://178.217.72.66:8080/Travel_Channel/video.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Домашние животные
+http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://178.217.72.66:8080/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+http://178.217.72.66:8080/Viasat_Nature/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",National Geographic HD
+http://178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Big Planet
+http://178.217.72.66:8080/big_planet/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ZооПарк
+http://178.134.1.158:8081/zoopark/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",doktor
+http://178.134.1.158:8081/doktor/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",nano
+http://178.134.1.158:8081/nano/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",nauka
+http://178.134.1.158:8081/nauka/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",viasathistory
+http://178.134.1.158:8081/viasathistory/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://178.124.193.53:8181/play/1049/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Стихия
+http://178.124.193.53:8181/play/1098/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя планета
+http://178.124.193.53:8181/play/1222/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охота и рыбалка
+http://178.124.193.53:8181/play/1040/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel
+http://178.124.193.53:8181/play/1333/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
+http://178.124.152.238:8088/rtg
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+http://178.124.152.238:8088/nauka
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+http://178.124.152.238:8088/auto24
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
+http://195.245.99.242:80/Avto_plus/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",National Geographic
+http://195.245.99.242:80/National_Geographic/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild
+http://195.245.99.242:80/NatGeoWild/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+http://195.245.99.242:80/Discovery/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ID Investigation Discovery HD
+http://195.245.99.242:80/ID/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя планета
+http://195.245.99.242:80/Moya_planeta/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Поехали!
+http://195.245.99.242:80/Poehali/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Мужской
+http://195.245.99.242:80/Muzskoy/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охота и рыбалка
+http://195.245.99.242:80/Ohota_i_ribalka/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Усадьба
+http://195.245.99.242:80/Usadba/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
+http://80.245.95.243:8888/play/a001/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel
+http://80.245.95.243:8888/play/a016/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
+http://80.245.95.243:8888/play/eryh897/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://80.245.95.243:8888/play/a00h/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+http://80.245.95.243:8888/play/skljg987/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая планета
+http://80.245.95.243:8888/play/a00m/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Загородная жизнь
+http://80.245.95.243:8888/play/a004/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя планета
+http://80.245.95.243:8888/play/a00p/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
+http://80.245.95.243:8888/play/a00q/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охотник и Рыболов
+http://80.245.95.243:8888/play/a00y/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Тайны Галактики
+http://80.245.95.243:8888/play/a02n/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
+http://80.245.95.243:8888/play/a003/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикая Охота HD
+http://s1.merlive.am/dikayaoxota/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Ocean TV
+http://s1.merlive.am/oceantv/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Точка отрыва
+http://s1.merlive.am/tochkaotriva/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG HD
+http://s1.merlive.am/rtgtv/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+http://s1.merlive.am/discovery/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",National Geographic
+http://s1.merlive.am/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
+http://s1.merlive.am/Avtoplus/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто24
+http://s1.merlive.am/Avto24/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",TLC
+http://s1.merlive.am/tlc/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Travel
+http://213.91.178.133:8000/play/a0bw
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",National Geographic Wild HD (6 ЯЗЫКОВ)
+http://78.130.250.2:8023/play/a02c/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+http://mfe01.cliptv.az/dash/Viasat_Nature_SDdffd567ua.ism/playlist.mpd
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Big Planet
+http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Travel+Adventure
+http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Lovno Ribarski Club BG
+http://213.91.178.133:8000/play/a0ch
+
+
+
+#EXTINF:-1 group-title="SPORT 🏆",Суспільне Спорт ful hd
+http://95.67.12.81:10625
+#EXTINF:-1 group-title="SPORT 🏆",Суспільне Kiev Спорт HD 
+https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",XSPORT
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10248
+#EXTINF:-1 group-title="SPORT 🏆",XSPORT 720x576
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10105
+#EXTINF:-1 group-title="SPORT 🏆",XSPORT+ HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10090
+#EXTINF:-1 group-title="SPORT 🏆",СУСПІЛЬНЕ СПОРТ HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10219
+#EXTINF:-1 group-title="SPORT 🏆",Divi Sport
+https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",X-Stream
+http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports Ukraine HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10169
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports + Ukraine HD
+http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10168
+#EXTINF:-1 group-title="SPORT 🏆",NHL (Интересные моменты)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport2
+http://195.245.99.242/Eurosport2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport1
+http://195.245.99.242/Eurosport1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",СПОРТ$ match
+http://178.217.72.66:8080/Match_HD/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",СПОРТ$ arena
+http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",СПОРТ$ IGRA
+http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",СПОРТ$ Футбол 1 HD
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",СПОРТ$ Футбол 2 HD
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",СПОРТ$ Футбол 3 HD
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Viju+ Sport
+http://178.134.1.158:8081/viasatsport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",KHL
+http://77.235.1.19:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",KHL Prime HD
+http://77.235.1.19:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",спорт!+ Арена
+http://77.235.1.19:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",спорт!+ Боец
+http://77.235.1.19:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",спорт!+ Игра
+http://77.235.1.19:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",спорт!+ Страна
+http://77.235.1.19:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ HD
+http://77.235.1.19:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",спорт!+ Футбол 1
+http://77.235.1.19:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",спорт!+ Футбол 2
+http://77.235.1.19:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",спорт!+ Футбол 3
+http://77.235.1.19:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Мир Баскетбола
+http://77.235.1.19:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Игра
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="SPORT 🏆",Арена
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="SPORT 🏆",Боец
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="SPORT 🏆",Match
+http://s1.merlive.am/match/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",СПОРТ$ Футбол 1
+http://s1.merlive.am/matchfutbol1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",KHL
+http://s1.merlive.am/khl/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 1
+http://80.245.95.243:8888/play/a01k/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 2
+http://80.245.95.243:8888/play/a22f/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", Setanta Sports 1 HD
+https://vod.splay.uz/live_splay/original/Setanta1HD/mono.ts.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", Setanta Sports 2 HD
+https://vod.splay.uz/live_splay/original/Setanta2HD/mono.ts.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", Futbol TV Telekanali [UZ]
+https://vod.splay.uz/live_splay/original/FutbolTV/mono.ts.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", UzSport
+https://vod.splay.uz/live_splay/original/Sport-UZ/mono.ts.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", Беларусь 5 sd
+https://streaming.goodstream.cyou/live/7001.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", Беларусь 5 
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8 
+#EXTINF:-1 group-title="SPORT 🏆", Беларусь 5 HD
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_w278966610_b1460000_sleng.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", Беларусь 5 Интернет
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD [BG]
+http://213.91.178.133:8000/play/a04b
+#EXTINF:-1 group-title="SPORT 🏆",o2 Cпорт
+http://45.143.108.110:4200/o2
+#EXTINF:-1 group-title="SPORT 🏆",Матч
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Fast BOX Fun HD
+http://213.91.178.133:8000/play/a0ce
+#EXTINF:-1 group-title="SPORT 🏆",Ring HD BG
+http://213.91.178.133:8000/play/a06e
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport HD BG
+http://213.91.178.133:8000/play/a05y
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD BG
+http://213.91.178.133:8000/play/a04b
+#EXTINF:-1 group-title="SPORT 🏆",Diema Sport HD
+http://213.91.178.133:8000/play/a06q
+#EXTINF:-1 group-title="SPORT 🏆",Diema Sport 2 HD
+http://213.91.178.133:8000/play/a08e
+#EXTINF:-1 group-title="SPORT 🏆",Diema Sport 3 HD
+http://213.91.178.133:8000/play/a08f
+#EXTINF:-1 group-title="SPORT 🏆",Nova Sport
+http://213.91.178.133:8000/play/a04a
+#EXTINF:-1 group-title="SPORT 🏆",MAX Sport 1 HD
+http://213.91.178.133:8000/play/a0as
+#EXTINF:-1 group-title="SPORT 🏆",MAX Sport 2 HD
+http://213.91.178.133:8000/play/a0at
+#EXTINF:-1 group-title="SPORT 🏆",MAX Sport 3 HD
+http://213.91.178.133:8000/play/a0ar
+#EXTINF:-1 group-title="SPORT 🏆",Max Sport 4
+http://213.91.178.133:8000/play/a05n
+#EXTINF:-1 group-title="SPORT 🏆",Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Boxing TV HD UK
+https://32tech0steam0dp01.org/live/UK_BoxingTVFHD/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sky Sports Football HD UK
+https://32tech0steam0dp01.org/live/UK_SkySportsFootballFHD/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sky Sport F1 FHD UK
+https://32tech0steam0dp01.org/live/UK_SkySportF1FHD/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sky Sports Tennis FHD UK
+https://32tech0steam0dp01.org/live/UK_SkySportsTennisFHD/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sky Sports Action HD UK
+https://32tech0steam0dp01.org/live/UK_SkySportsActionHD/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",TNT Sports1 HD UK
+https://32tech0steam0dp01.org/live/UK_TNTSports1FHD/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sportitalia IT
+https://32tech0steam0dp01.org/live/IT_Sportitalia/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport2 IT
+https://32tech0steam0dp01.org/live/IT_Eurosport2FHD/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",DAZN1 DE
+https://32tech0steam0dp01.org/live/DE_DAZN1/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sky Sport Top Event FHD
+https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport digital Fussbal HD DE
+https://32tech0steam0dp01.org/live/SPORTDIGITAL_FUSSBALL/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Formula 1 US
+https://32tech0steam0dp01.org/live/US_Formula1/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Teledeporte HD ES
+https://32tech0steam0dp01.org/live/ES_TeledeporteHD/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Боец
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="SPORT 🏆",Arena
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="SPORT 🏆",Игра
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="SPORT 🏆",Trace Sport Stars
+http://87.120.142.11:18000/Rossiya1
+#EXTINF:-1 group-title="SPORT 🏆",Sky Sport Bundesliga
+https://tva.in.ua/live/sky-sport-bundesliga.m3u8?key=fas-tv.com
+#EXTINF:-1 group-title="SPORT 🏆",RING HD [Bulgarian]
+http://87.246.60.6:11021
+#EXTINF:-1 group-title="SPORT 🏆",SPORTS 4
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPNace Sport Stars
+http://95.67.12.82:9067
+#EXTINF:-1 group-title="SPORT 🏆",ESPN
+http://181.188.216.5:18000/play/a0pe/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN
+http://181.188.216.5:18000/play/a0ek/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN
+http://181.188.216.5:18000/play/a026/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN
+http://181.188.216.5:18000/play/a0ch/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN  4 HD
+http://181.188.216.5:18000/play/a0am/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 2
+http://181.188.216.5:18000/play/a0jz/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 2 HD
+http://181.188.216.5:18000/play/a0oz/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 3
+http://181.188.216.5:18000/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 3 HD
+http://181.188.216.5:18000/play/a0dm/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 4
+http://181.188.216.5:18000/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 4HD
+http://181.188.216.5:18000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 5
+http://181.188.216.5:18000/play/a0ml/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 5HD
+http://181.188.216.5:18000/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 6
+http://181.188.216.5:18000/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 6 HD
+http://181.188.216.5:18000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 7
+http://181.188.216.5:18000/play/a0pg/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN 7HD
+http://181.188.216.5:18000/play/a0i6/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN CO
+http://181.188.216.5:18000/play/a0nv/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN HD
+http://181.188.216.5:18000/play/a0gn/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN HD
+http://181.188.216.5:18000/play/a0ou/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN HD
+http://181.188.216.5:18000/play/a0fb/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN HD
+http://181.188.216.5:18000/play/a0dk/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN HD
+http://181.188.216.5:18000/play/a0lo/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ESPN Premium HD
+http://181.188.216.5:18000/play/a0fe/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",NBA TV
+https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",CUDUBAI 3
+https://streaming.goodstream.cyou/live/7011.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORT 🏆",CANAL MOTOR
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",CANAL+ Sport (CZ)
+http://78.130.250.2:8023/play/a02v/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Golf Channel
+http://78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Nova Sport 2 HD (clone)
+http://78.130.250.2:8023/play/a035/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",AutoMotorSport HD
+http://78.130.250.2:8023/play/a018/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",CANAL+ Sport 2
+http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Nova Sport 2 HD
+http://78.130.250.2:8023/play/a004/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 1 HD
+http://78.130.250.2:8023/play/a02u/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",DAZN Combat German
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Glory Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Swerve Sports
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Turbo Sports Network
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",UFC Network
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",UFA TV HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Motor sport revue HD
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein EXTRAS
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",TOP Barca
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Dubai Sports 3 HD [ae]
+https://streamer3.connectto.com/913/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Boxing TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",UNBEATEN
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png"  group-title="SPORT 🏆", TRUE BEINSPORTS 1
+https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png"  group-title="SPORT 🏆", TRUE BEINSPORTS 2
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/b5c591af-060c-48ea-91ec-e1a230818c27.png"  group-title="SPORT 🏆", TRUE BEINSPORTS 3
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png"  group-title="SPORT 🏆", TRUE PREMIERE FOOTBALL 1
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png"  group-title="SPORT 🏆", TRUE PREMIERE FOOTBALL 2
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/1c11f698-75a0-449d-8a79-6a52be569911.png"  group-title="SPORT 🏆", TRUE PREMIERE FOOTBALL 3
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png"  group-title="SPORT 🏆", TRUE PREMIERE FOOTBALL 4
+https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/133a8160-6e09-4c7f-80e4-39a45f296d00.png"  group-title="SPORT 🏆", TRUE PREMIERE FOOTBALL 5
+https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp"  group-title="SPORT 🏆", TRUE SPORT 1
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp"  group-title="SPORT 🏆", TRUE SPORT 2
+https://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp"  group-title="SPORT 🏆", TRUE SPORT 3
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp"  group-title="SPORT 🏆", TRUE SPORT 4
+https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 1
+http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 2
+http://stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 3
+http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 4
+http://stream-msk-07.ott.tricolor.tv/dtv/id834_MSKSG-PVR-1--Nash_khokkey4/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 5
+http://stream-msk-03.ott.tricolor.tv/dtv/id730_MSKSG-PVR-1--Nash_khokkey5/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 6
+http://stream-msk-08.ott.tricolor.tv/dtv/id740_MSKSG-PVR-1--Nash_khokkey6/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 7
+http://stream-msk-09.ott.tricolor.tv/dtv/id741_MSKSG-PVR-1--Nash_khokkey7/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 8
+http://stream-msk-04.ott.tricolor.tv/dtv/id747_MSKSG-PVR-1--Nash_khokkey8/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 9
+http://stream-msk-08.ott.tricolor.tv/dtv/id749_MSKSG-PVR-1--Nash_khokkey9/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 10
+http://stream-msk-04.ott.tricolor.tv/dtv/id797_MSKSG-PVR-1--Nash_sport10/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 11
+http://stream-msk-11.ott.tricolor.tv/dtv/id798_MSKSG-PVR-1--Nash_sport11/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 12
+http://stream-msk-05.ott.tricolor.tv/dtv/id799_MSKSG-PVR-1--Nash_sport12/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 13
+http://stream-msk-10.ott.tricolor.tv/dtv/id800_MSKSG-PVR-1--Nash_sport13/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 14
+http://stream-msk-08.ott.tricolor.tv/dtv/id817_MSKSG-PVR-1--Nash_sport14/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 15
+http://stream-msk-10.ott.tricolor.tv/dtv/id804_MSKSG-PVR-1--Nash_sport15/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 16
+http://stream-msk-13.ott.tricolor.tv/dtv/id806_MSKSG-PVR-1--Nash_sport16/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 17
+http://stream-msk-03.ott.tricolor.tv/dtv/id807_MSKSG-PVR-1--Nash_sport17/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 18
+http://stream-msk-12.ott.tricolor.tv/dtv/id808_MSKSG-PVR-1--Nash_sport18/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 19
+http://stream-msk-07.ott.tricolor.tv/dtv/id809_MSKSG-PVR-1--Nash_sport19/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 20
+http://stream-msk-08.ott.tricolor.tv/dtv/id810_MSKSG-PVR-1--Nash_sport20/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 21
+http://stream-msk-05.ott.tricolor.tv/dtv/id814_MSKSG-PVR-1--Nash_sport21/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 22
+http://stream-msk-13.ott.tricolor.tv/dtv/id812_MSKSG-PVR-1--Nash_sport23/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 23
+http://stream-msk-09.ott.tricolor.tv/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 24
+https://stream-msk-09.ott.tricolor.tv:443/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 25
+https://stream-msk-13.ott.tricolor.tv:443/dtv/id881_MSKSG-PVR-1--Nash_sport25/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 26
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id875_MSKSG-PVR-1--Nash_sport26/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 27
+https://stream-msk-01.ott.tricolor.tv:443/dtv/id876_MSKSG-PVR-1--Nash_sport27/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 28
+https://stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1--Nash_sport28/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 29
+https://stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 30
+https://stream-msk-18.ott.tricolor.tv/dtv/id1026_MSKSG-PVR-1--Nash_sport30/02/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Хокей VPN
+http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 group-title="SPORT 🏆",Арена VPN
+http://194.143.148.28:8080/MatchArena/mpegts
